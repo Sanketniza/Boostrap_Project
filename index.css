@@ -1,0 +1,22 @@
+
+ #navbar{
+    color: rgb(168, 77, 12);
+ }
+
+ #navbar:hover{
+    color: white;
+    transition:  1s;
+ }
+
+ .active{
+    background-size: cover;
+ }
+
+
+.carousel-item {
+    width: 100vw;
+    height: 50vh;
+ }
+ .container{
+   display: flex;
+ }
